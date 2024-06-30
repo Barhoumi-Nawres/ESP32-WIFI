@@ -5,4 +5,6 @@ connect ESP32 board to wifi
   <li>add link (file ->preference ->URL->(https://espressif.github.io/arduino-esp32/package_esp32_index.json)</li>
   <li>install esp32 package </li>
   
+  
 </ul>
+<img src="esp32.png" alt="architecture wifi-esp32" >
