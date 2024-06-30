@@ -17,3 +17,4 @@ Acces to esp32 through router
 <img src="wifi.png" alt="architecture wifi-esp32" >
 
 
+
