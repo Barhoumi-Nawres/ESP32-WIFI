@@ -2,7 +2,7 @@
 connect ESP32 board to wifi 
 
 the architecture of the ESP32 card
-<img src=".png" alt="architecture-esp32"  height="300px">
+<img src="Capture d’écran 2024-06-30 204340.png" alt="architecture-esp32" >
 <ul>
   <li>open new project in (Arduino.ide )</li>
   <li>add link (file ->preference ->URL->(https://espressif.github.io/arduino-esp32/package_esp32_index.json)</li>
